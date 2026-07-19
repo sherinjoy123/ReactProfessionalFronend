@@ -1,7 +1,7 @@
 import tanjiro from "../assets/images/tanjiro2.png";
 import nezuko from "../assets/images/nezuko.png";
 import zenitsu from "../assets/images/zenitusu.png";
-import inosuke from "../assets/images/inosuke.png";
+import inosuke from "../assets/images/Inosuke.png";
 
 import waterBreath from "../assets/videos/water.mp4"
 import Blood from "../assets/videos/nazukos.mp4"
