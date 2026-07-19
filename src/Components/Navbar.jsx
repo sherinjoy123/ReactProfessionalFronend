@@ -39,7 +39,7 @@ const navigate = useNavigate()
      
       {menuOpen && (
         <div className="md:hidden bg-black text-center py-5 space-y-5">
-          <p className="hover:text-red-500">Home</p>
+          <p onClick={()=>navigate('/')} className="hover:text-red-500">Home</p>
           <p onClick={()=>navigate('/characters')} className="hover:text-red-500">Characters</p>
 
           <p onClick={()=>navigate('/story')}  className="hover:text-red-500">Story</p>
