@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.font-orbitron{
+  font-family: "orbitron",sans-serif;
+}
+
+* {
+  cursor: none;
+}
