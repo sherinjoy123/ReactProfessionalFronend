@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
+
 import characters from "../Data/Characters";
 import WaterParticles from "./WaterParticles";
 import '@fontsource/orbitron'
