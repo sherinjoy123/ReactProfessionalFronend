@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { FaClock } from "react-icons/fa";
-import timeline from "../Data/timeline";
+import timeline from "../Data/timeLine";
 import Timeline from"../assets/videos/galleryV.mp4";
 
 const StoryTimeline = () => {
